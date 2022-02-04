@@ -1,8 +1,7 @@
 #!/bin/sh
-sudo apt install -y\
-javascript-common\
-nodejs\
-npm
+sudo apt install javascript-common -y
+sudo apt install nodejs -y
+sudo apt install npm -y
 sudo npm install -g\
 web3\
 vue\
