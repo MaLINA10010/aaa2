@@ -18,6 +18,7 @@ sudo apt-get install git -y
 sudo wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo dpkg -i --force-depends google-chrome-stable_current_amd64.deb
 sudo add-apt-repository -y ppa:ethereum/ethereum
+sudo add-apt-repository -y ppa:ethereum/ethereum-dev
 sudo apt-get update
 sudo apt-get install ethereum
 sudo add-apt-repository ppa:obsproject/obs-studio -y
