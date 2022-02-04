@@ -8,4 +8,4 @@ PyQt5 \
 Flask \
 py-solc-x \
 pyside2 \
-sWTForms 
+WTForms 
