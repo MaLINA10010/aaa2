@@ -15,3 +15,6 @@ sudo npm install -g create-react-app
 sudo npm install -g react-router-dom
 sudo npm install -g @vue/cli
 sudo npm install -g fabric-network
+sudo npm install -g solc
+sudo npm install -g ganache
+sudo npm install -g remix-ide
